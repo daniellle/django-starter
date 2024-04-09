@@ -15,7 +15,7 @@ sss
 - [Make](https://www.gnu.org/software/make/manual/make.html) - to easily run commands needed for development
 
 ## Getting Started
-dddddd
+ddddddddd
 - Run `make develop` at the root of this project.
 - Visit the app at http://localhost:8080.
 - Make your code changes! The app will reload whenever you save.
